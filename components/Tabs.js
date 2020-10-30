@@ -1,4 +1,4 @@
-// STEP 2: Create tabs
+// STEP 2: Create tabs 
 // -----------------------
 // Using axios send a GET request to the address: https://lambda-times-api.herokuapp.com/topics
 // Once the data is resolved use console logs or breakpoints to review the structure.
